@@ -44,4 +44,4 @@ Serial monitor baud is set by `monitor_speed = 9600` in `platformio.ini`.
 MIT
 
 ## Author
-Project by `MrArchfiend`
+Project by `Aditya Singh`
